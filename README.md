@@ -49,5 +49,5 @@ Random fact: **Trabalhei durante 3 anos como eletricista em uma indústria de pr
 
 
 ## Contato
-<div align="left"><a href="https://www.linkedin.com/in/ranayke-boni/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ranayke" height="35" width="40" /></a></div>
+<div align="left"><a href="https://www.linkedin.com/in/ranayke-boni/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ranayke" height="35" width="40" /></a></div>
 
