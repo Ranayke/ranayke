@@ -22,9 +22,9 @@ Desenvolvedor Front-End cursando 4º período de Sistemas de Informação. Movid
   <img src="https://www.vectorlogo.zone/logos/getbootstrap/getbootstrap-ar21.svg" alt="bootstrap" width="90" height="45"/>
   <img src="https://www.vectorlogo.zone/logos/figma/figma-ar21.svg" alt="figma" width="90" height="45"/>
   <img src="https://thekenyandev.com/static/ba180df420dbaffd7405a0f65764feab/cover.png" alt="jwt" width="80" height="45"/> 
+  <img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-ar21.svg" alt="mongodb" width="90" height="45"/>
   <img src="https://www.vectorlogo.zone/logos/npmjs/npmjs-ar21.svg" alt="npm" width="55" height="45"/> 
   <img src="https://www.vectorlogo.zone/logos/yarnpkg/yarnpkg-ar21.svg" alt="yarn" width="90" height="45"/> 
-  <img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-ar21.svg" alt="mongodb" width="90" height="45"/>
 </div>
 <br>
 
