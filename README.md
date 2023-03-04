@@ -15,13 +15,9 @@ Desenvolvedor Front-End cursando 4º período de Sistemas de Informação. Movid
 <div align="left">
   <img src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-ar21.svg" alt="html5" width="90" height="45"/> 
   <img src="https://www.vectorlogo.zone/logos/w3_css/w3_css-ar21.svg" alt="css3" width="90" height="45"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="45" height="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" alt="Sass" width="45" height="45" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Javascript_badge.svg/1200px-Javascript_badge.svg.png" width=45" height="45"/>
   <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg" alt="git" width="90" height="45"/>
-  <img src="https://cdn.cdnlogo.com/logos/t/34/tailwind-css.svg" alt="Tailwind" width="90" height="45" />
   <img src="https://www.vectorlogo.zone/logos/getbootstrap/getbootstrap-ar21.svg" alt="bootstrap" width="90" height="45"/>
-  <img src="https://www.vectorlogo.zone/logos/figma/figma-ar21.svg" alt="figma" width="90" height="45"/>
-  <img src="https://thekenyandev.com/static/ba180df420dbaffd7405a0f65764feab/cover.png" alt="jwt" width="80" height="45"/> 
   <img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-ar21.svg" alt="mongodb" width="90" height="45"/>
   <img src="https://www.vectorlogo.zone/logos/npmjs/npmjs-ar21.svg" alt="npm" width="55" height="45"/> 
   <img src="https://www.vectorlogo.zone/logos/yarnpkg/yarnpkg-ar21.svg" alt="yarn" width="90" height="45"/> 
@@ -34,6 +30,11 @@ Desenvolvedor Front-End cursando 4º período de Sistemas de Informação. Movid
   <img src="https://www.vectorlogo.zone/logos/js_webpack/js_webpack-ar21.svg" alt="webpack" width="90" height="45"/>
   <img src="https://d33wubrfki0l68.cloudfront.net/7a197cfe44548cc1a3f581152af70a3051e11671/78df8/img/babel.svg" alt="babel" width="80" height="45"/>
   <img src="https://pbs.twimg.com/media/EtZYf1FWYAMmtHj.jpg" alt="vitejs" width="90" height="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" alt="Sass" width="45" height="45" />
+  <img src="https://www.vectorlogo.zone/logos/figma/figma-ar21.svg" alt="figma" width="90" height="45"/>
+  <img src="https://thekenyandev.com/static/ba180df420dbaffd7405a0f65764feab/cover.png" alt="jwt" width="80" height="45"/> 
+  <img src="https://www.vectorlogo.zone/logos/expressjs/expressjs-ar21.svg" alt="expressjs" width="80" height="45"/> 
+  <img src="https://cdn.cdnlogo.com/logos/t/34/tailwind-css.svg" alt="Tailwind" width="90" height="45" />
 </div>
 <br>
 
