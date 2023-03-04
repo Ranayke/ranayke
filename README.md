@@ -5,7 +5,7 @@
 ### Welcome to my Github page!
 
 Sou do Espírito Santo, Brasil.
-Desenvolvedor Front-End cursando 4º período de Sistemas de Informação. Movido pelo desejo de aprender, meu objetivo atual é aprofundar meus conhecimentos em JavaScript, React e Node.js para construir projetos cada vez mais robustos.
+Desenvolvedor Front-End cursando 4º período de Sistemas de Informação. Com uma mentalidade de aprendizado contínuo, meu objetivo atual é aprimorar minhas habilidades em JavaScript, React.js e Node.js para construir projetos mais robustos e desafiadores.
 
 
 <br>
