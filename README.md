@@ -16,6 +16,7 @@ Desenvolvedor Front-End cursando 4º período de Sistemas de Informação. Com u
   <img src="https://www.vectorlogo.zone/logos/w3_css/w3_css-ar21.svg" alt="css3" width="90" height="45"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Javascript_badge.svg/1200px-Javascript_badge.svg.png" width=45" height="45"/>
   <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg" alt="git" width="90" height="45"/>
+  <img src="https://github.com/Ranayke/imagineshop-app/blob/9ae677bb718914646b2355588fc95d24e14457b2/public/styledcomponents.svg" alt="styledcomponents" width="45" height="50"/>
   <img src="https://www.vectorlogo.zone/logos/getbootstrap/getbootstrap-ar21.svg" alt="bootstrap" width="90" height="45"/>
   <img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-ar21.svg" alt="mongodb" width="90" height="45"/>
   <img src="https://www.vectorlogo.zone/logos/npmjs/npmjs-ar21.svg" alt="npm" width="55" height="45"/> 
