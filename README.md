@@ -35,6 +35,7 @@ Desenvolvedor Front-End cursando 4º período de Sistemas de Informação. Com u
   <img src="https://thekenyandev.com/static/ba180df420dbaffd7405a0f65764feab/cover.png" alt="jwt" width="80" height="45"/> 
   <img src="https://www.vectorlogo.zone/logos/expressjs/expressjs-ar21.svg" alt="expressjs" width="80" height="45"/> 
   <img src="https://cdn.cdnlogo.com/logos/t/34/tailwind-css.svg" alt="Tailwind" width="90" height="45" />
+  <img src="https://www.vectorlogo.zone/logos/expoio/expoio-ar21.svg" alt="Expo" width="60" height="45" />
 </div>
 <br>
 
