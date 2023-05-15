@@ -16,11 +16,8 @@ Desenvolvedor Front-End cursando 4º período de Sistemas de Informação. Com u
   <img src="https://www.vectorlogo.zone/logos/w3_css/w3_css-ar21.svg" alt="css3" width="90" height="45"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Javascript_badge.svg/1200px-Javascript_badge.svg.png" width=45" height="45"/>
   <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg" alt="git" width="90" height="45"/>
-  <img src="https://github.com/Ranayke/imagineshop-app/blob/9ae677bb718914646b2355588fc95d24e14457b2/public/styledcomponents.svg" alt="styledcomponents" width="45" height="50"/>
   <img src="https://www.vectorlogo.zone/logos/getbootstrap/getbootstrap-ar21.svg" alt="bootstrap" width="90" height="45"/>
-  <img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-ar21.svg" alt="mongodb" width="90" height="45"/>
   <img src="https://www.vectorlogo.zone/logos/npmjs/npmjs-ar21.svg" alt="npm" width="55" height="45"/> 
-  <img src="https://www.vectorlogo.zone/logos/yarnpkg/yarnpkg-ar21.svg" alt="yarn" width="90" height="45"/> 
 </div>
 <br>
 
@@ -36,6 +33,14 @@ Desenvolvedor Front-End cursando 4º período de Sistemas de Informação. Com u
   <img src="https://www.vectorlogo.zone/logos/expressjs/expressjs-ar21.svg" alt="expressjs" width="80" height="45"/> 
   <img src="https://cdn.cdnlogo.com/logos/t/34/tailwind-css.svg" alt="Tailwind" width="90" height="45" />
   <img src="https://www.vectorlogo.zone/logos/expoio/expoio-ar21.svg" alt="Expo" width="60" height="45" />
+  <img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-ar21.svg" alt="nodejs" width="70" height="45"/>
+  <img src="https://www.vectorlogo.zone/logos/firebase/firebase-ar21.svg" alt="firebase" width="90" height="45"/>
+  <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg" alt="react" width="90" height="45"/>
+  <img src="https://camo.githubusercontent.com/f21f1fa29dfe5e1d0772b0efe2f43eca2f6dc14f2fede8d9cbef4a3a8210c91d/68747470733a2f2f6173736574732e76657263656c2e636f6d2f696d6167652f75706c6f61642f76313636323133303535392f6e6578746a732f49636f6e5f6c696768745f6261636b67726f756e642e706e67" alt="nextjs" width="45" height="45"/>
+  <img src="https://seeklogo.com/images/N/next-js-logo-7929BCD36F-seeklogo.com.png" alt="nextjs" width="90" height="45"/>
+  <img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-ar21.svg" alt="mongodb" width="90" height="45"/>
+  <img src="https://www.vectorlogo.zone/logos/yarnpkg/yarnpkg-ar21.svg" alt="yarn" width="90" height="45"/>
+  <img src="https://github.com/Ranayke/imagineshop-app/blob/9ae677bb718914646b2355588fc95d24e14457b2/public/styledcomponents.svg" alt="styledcomponents" width="45" height="50"/>
 </div>
 <br>
 
@@ -43,12 +48,10 @@ Desenvolvedor Front-End cursando 4º período de Sistemas de Informação. Com u
 ## Tecnologias que estou estudando :books:
 
 <div align="left">
-  <img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-ar21.svg" alt="nodejs" width="70" height="45"/>
   <img src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-ar21.svg" alt="typescript" width="90" height="45"/>
-  <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg" alt="react" width="90" height="45"/>
-  <img src="https://camo.githubusercontent.com/f21f1fa29dfe5e1d0772b0efe2f43eca2f6dc14f2fede8d9cbef4a3a8210c91d/68747470733a2f2f6173736574732e76657263656c2e636f6d2f696d6167652f75706c6f61642f76313636323133303535392f6e6578746a732f49636f6e5f6c696768745f6261636b67726f756e642e706e67" alt="nextjs" width="45" height="45"/>
-    <img src="https://seeklogo.com/images/N/next-js-logo-7929BCD36F-seeklogo.com.png" alt="nextjs" width="90" height="45"/>
-    <img src="https://www.vectorlogo.zone/logos/firebase/firebase-ar21.svg" alt="firebase" width="90" height="45"/>
+  <img src="https://www.vectorlogo.zone/logos/angular/angular-ar21.svg" alt="angular" width="90" height="45"/>
+  <img src="https://www.vectorlogo.zone/logos/java/java-ar21.svg" alt="java" width="90" height="45"/>
+
 </div>
 
 <br>
