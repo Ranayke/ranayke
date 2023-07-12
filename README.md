@@ -58,8 +58,8 @@ Desenvolvedor Front-End cursando 4º período de Sistemas de Informação. Com u
 
 <div align="center" width="100%">
   <img width="70%" src="https://streak-stats.demolab.com/?user=ranayke&theme=dracula" alt="ranayke" />
-  <img width="41%"  src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs?username=ranayke&show_icons=true&locale=en&layout=compact&theme=dracula" alt="ranayke" />  
-  <img width="49%" padding="0" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=ranayke&show_icons=true&locale=en&theme=dracula" alt="ranayke" />
+  <img width="38%"  src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs?username=ranayke&show_icons=true&locale=en&layout=compact&theme=dracula" alt="ranayke" />  
+  <img width="50%" padding="0" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=ranayke&show_icons=true&locale=en&theme=dracula" alt="ranayke" />
 </div>
 
 <br>
