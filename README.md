@@ -4,7 +4,7 @@
 
 ### Welcome to my Github page!
 
-Desenvolvedor Front-End cursando 4º período de Sistemas de Informação. Com uma mentalidade de aprendizado contínuo, meu objetivo atual é aprimorar minhas habilidades em programação WEB para construir projetos mais robustos e desafiadores.
+Desenvolvedor Front-End cursando 5º período de Sistemas de Informação e iniciando a graduação em Tecnologia em Sistemas para Internet. Com uma mentalidade de aprendizado contínuo, meu objetivo atual é aprimorar minhas habilidades em programação WEB para construir projetos mais robustos e desafiadores.
 
 
 <br>
