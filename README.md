@@ -14,10 +14,11 @@ Desenvolvedor Full Stack cursando 5º período de Sistemas de Informação e ini
 <div align="left">
   <img src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-ar21.svg" alt="html5" width="90" height="45"/> 
   <img src="https://www.vectorlogo.zone/logos/w3_css/w3_css-ar21.svg" alt="css3" width="90" height="45"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Javascript_badge.svg/1200px-Javascript_badge.svg.png" width=45" height="45"/>
   <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg" alt="git" width="90" height="45"/>
   <img src="https://www.vectorlogo.zone/logos/getbootstrap/getbootstrap-ar21.svg" alt="bootstrap" width="90" height="45"/>
-  <img src="https://www.vectorlogo.zone/logos/npmjs/npmjs-ar21.svg" alt="npm" width="55" height="45"/> 
+  <img src="https://www.vectorlogo.zone/logos/npmjs/npmjs-ar21.svg" alt="npm" width="55" height="45"/>
+  <img src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-ar21.svg" alt="typescript" width="90" height="45"/>
+  <img src="https://www.vectorlogo.zone/logos/angular/angular-ar21.svg" alt="angular" width="90" height="45"/>
 </div>
 <br>
 
@@ -48,9 +49,8 @@ Desenvolvedor Full Stack cursando 5º período de Sistemas de Informação e ini
 ## Tecnologias que estou estudando :books:
 
 <div align="left">
-  <img src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-ar21.svg" alt="typescript" width="90" height="45"/>
-  <img src="https://www.vectorlogo.zone/logos/angular/angular-ar21.svg" alt="angular" width="90" height="45"/>
   <img src="https://www.vectorlogo.zone/logos/java/java-ar21.svg" alt="java" width="90" height="45"/>
+  <img src="https://www.vectorlogo.zone/logos/springio/springio-ar21.svg" alt="java" width="90" height="45"/>
 
 </div>
 
