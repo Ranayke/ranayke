@@ -4,8 +4,7 @@
 
 ### Welcome to my Github page!
 
-Desenvolvedor Full Stack cursando 5º período de Sistemas de Informação e iniciando a graduação em Tecnologia em Sistemas para Internet. Com uma mentalidade de aprendizado contínuo, meu objetivo atual é aprimorar minhas habilidades em programação WEB para construir projetos mais robustos e desafiadores.
-
+Desenvolvedor Full Stack cursando 6º período de Sistemas de Informação e 2º na graduação em Tecnologia em Sistemas para Internet. Com uma mentalidade de aprendizado contínuo, meu objetivo atual é aprimorar minhas habilidades em programação WEB para construir projetos mais robustos e desafiadores.
 
 <br>
 
