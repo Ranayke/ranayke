@@ -29,18 +29,17 @@ Desenvolvedor Full Stack cursando 6º período de Sistemas de Informação e 2º
   <img src="https://pbs.twimg.com/media/EtZYf1FWYAMmtHj.jpg" alt="vitejs" width="90" height="45"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" alt="Sass" width="45" height="45" />
   <img src="https://www.vectorlogo.zone/logos/figma/figma-ar21.svg" alt="figma" width="90" height="45"/>
-  <img src="https://thekenyandev.com/static/ba180df420dbaffd7405a0f65764feab/cover.png" alt="jwt" width="80" height="45"/> 
   <img src="https://www.vectorlogo.zone/logos/expressjs/expressjs-ar21.svg" alt="expressjs" width="80" height="45"/> 
   <img src="https://cdn.cdnlogo.com/logos/t/34/tailwind-css.svg" alt="Tailwind" width="90" height="45" />
   <img src="https://www.vectorlogo.zone/logos/expoio/expoio-ar21.svg" alt="Expo" width="60" height="45" />
   <img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-ar21.svg" alt="nodejs" width="70" height="45"/>
   <img src="https://www.vectorlogo.zone/logos/firebase/firebase-ar21.svg" alt="firebase" width="90" height="45"/>
   <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg" alt="react" width="90" height="45"/>
-  <img src="https://camo.githubusercontent.com/f21f1fa29dfe5e1d0772b0efe2f43eca2f6dc14f2fede8d9cbef4a3a8210c91d/68747470733a2f2f6173736574732e76657263656c2e636f6d2f696d6167652f75706c6f61642f76313636323133303535392f6e6578746a732f49636f6e5f6c696768745f6261636b67726f756e642e706e67" alt="nextjs" width="45" height="45"/>
   <img src="https://seeklogo.com/images/N/next-js-logo-7929BCD36F-seeklogo.com.png" alt="nextjs" width="90" height="45"/>
   <img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-ar21.svg" alt="mongodb" width="90" height="45"/>
   <img src="https://www.vectorlogo.zone/logos/yarnpkg/yarnpkg-ar21.svg" alt="yarn" width="90" height="45"/>
   <img src="https://github.com/Ranayke/imagineshop-app/blob/9ae677bb718914646b2355588fc95d24e14457b2/public/styledcomponents.svg" alt="styledcomponents" width="45" height="50"/>
+  <img src="https://www.cypress.io/_astro/navbar-brand.D87396b0.svg" alt="cypress" width="90" height="45"/>
 </div>
 <br>
 
