@@ -25,6 +25,9 @@ Atualmente, meu foco está em consolidar e expandir meus conhecimentos em desenv
   <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg" alt="react" width="90" height="45"/>
   <img src="https://miro.medium.com/v2/resize:fit:720/1*_bJ2z2NRfTncHAv5UjUxwA.jpeg" alt="nextjs" width="90" height="45"/>
   <img src="https://miro.medium.com/v2/resize:fit:1400/0*CkYF8pNwANy6rgbp.png" alt="cypress" width="90" height="45"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Spring_Framework_Logo_2018.svg/2560px-Spring_Framework_Logo_2018.svg.png" alt="cypress" width="100" height="35"/>
+    <img src="https://i.pinimg.com/736x/79/5e/bb/795ebb5f4a470cd7242136237f61fc53.jpg" alt="cypress" width="80" height="65"/>
+    
 </div>
 
 <br>
